@@ -1,0 +1,6 @@
+@ComplexDependencyInjection_HostAddress = http://localhost:5013
+
+GET {{ComplexDependencyInjection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
